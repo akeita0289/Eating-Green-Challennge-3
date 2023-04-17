@@ -1,0 +1,42 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+html{
+  background-color: #c0e8d1;
+
+}
+body{
+
+  text-align:center;
+    font-family: monospace;
+  color: #0a4814;
+}
+
+h1{
+
+  font-family: Cursive;
+  color: #5d8e6b;
+    border:10px dotted#0a4814;
+    padding: 5px;
+  text-align:center;
+  
+}
+h2{
+
+  font-family: fantasy;
+  color: #5d8e6b;
+}
+h3{ 
+
+  font-family: cursive;
+  color: #5d8e6b;
+}
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+body{
+  font-size:18px;
+}
